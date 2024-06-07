@@ -1,0 +1,11 @@
+void_category:
+  icon: void_addon:lead_ingot
+  name: "Test"
+  priority: 0
+  items:
+    - void_addon:lead_ingot
+    - void_addon:nickel_ingot
+    - void_addon:osmium_ingot
+    - void_addon:silver_ingot
+    - void_addon:tin_ingot
+    - void_addon:zinc_ingot
